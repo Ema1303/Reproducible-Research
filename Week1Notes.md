@@ -62,7 +62,7 @@ Issues from reproducibility:
 ##Define data set
 - depends on my goal:
 	- descriptive - a whole population
-        - exploratory - a random sample with many variables measured
+	- exploratory - a random sample with many variables measured
         - inferential - the right population, randomly sampled
         - predictive - a training and test data set from the same population
         - causal - data from a randomized study
