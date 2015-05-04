@@ -63,10 +63,10 @@ Issues from reproducibility:
 - depends on my goal:
 	- descriptive - a whole population
 	- exploratory - a random sample with many variables measured
-        - inferential - the right population, randomly sampled
-        - predictive - a training and test data set from the same population
-        - causal - data from a randomized study
-        - mechanistic - data about all components of the system
+	- inferential - the right population, randomly sampled
+	- predictive - a training and test data set from the same population
+	- causal - data from a randomized study
+	- mechanistic - data about all components of the system
 
 ##Determine what data can you access
 - free on web
